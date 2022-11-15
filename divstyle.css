@@ -1,0 +1,95 @@
+body{
+background:url(ptbg.png) center fixed no-repeat;
+background-size:cover;
+}
+
+div{
+border:1px solid grey;
+width:700px;
+margin:auto;
+padding: 0px 40px;
+background-color: rgba(255,255,255,.5);
+}
+
+div#header{
+margin: 20px 220px;
+border: 0px;
+background-color: rgba(255,255,255,.5);
+border:1px solid grey;
+}
+
+div#navigation{
+border:0px solid grey;
+width:700px;
+margin: auto 220px;
+margin-bottom: 50px;
+padding: 20px 40px;
+background-color: transparent;
+}
+div#community{
+margin: 0px 220px;
+}
+
+div#profile{
+margin: 30px 220px;
+}
+
+div#problem{
+margin: 30px 220px;
+}
+
+div#advocacy{
+margin: 30px 220px;
+}
+
+div#contacts{
+margin: 30px 220px;
+}
+
+div#background{
+margin: 30px 220px;
+}
+
+div#significance{
+margin: 30px 220px;
+}
+
+div#interventions{
+margin: 0px 220px;
+}
+
+div#SIP{
+margin: 30px 220px;
+}
+
+div#footer{
+margin: 10px 220px;
+padding: 10px 40px;
+float:bottom;
+text-align:center;
+font-family: Nunito;
+font-weight: bold
+}
+
+div#sidebar{
+float:right;
+width:180;
+text-align:justify;
+padding-bottom: 20px;
+margin:  0px 220px;
+position: fixed;
+-webkit-position: fixed;
+top: 150;
+right: 10;
+}
+
+div.top{
+float:right;
+position:fixed;
+width: 90px;
+text-align:center;
+margin: 0px 300px;
+padding: 5px 10px;
+top: 590px;
+right: 10;
+}
